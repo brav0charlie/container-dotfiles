@@ -4,8 +4,8 @@
 ##
 ## Autoload functions (allows use of files in $ZSH/functions)
 ##
-fpath=($ZSH/functions $fpath)
-autoload -U $ZSH/functions/*(:t)
+#fpath=($ZSH/functions $fpath)
+#autoload -U $ZSH/functions/*(:t)
 
 
 ##
